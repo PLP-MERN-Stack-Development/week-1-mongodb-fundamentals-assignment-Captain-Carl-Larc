@@ -9,9 +9,7 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
 - Install MongoDB on your local machine OR set up a free MongoDB Atlas cluster
 - Create a new database called `plp_bookstore`
 - Create a collection called `books`
-
-### Task 2: Basic CRUD Operations
-- Use the provided `insert_books.js` script to insert at least 10 book documents into your collection
+cript to insert at least 10 book documents into your collection
 - Each book should have the following fields:
   - `title` (string)
   - `author` (string)
@@ -21,6 +19,8 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
   - `in_stock` (boolean)
   - `pages` (number)
   - `publisher` (string)
+### Task 2: Basic CRUD Operations
+- Use the provided `insert_books.js` s
 - Write MongoDB queries to:
   - Find all books in a specific genre
   - Find books published after a certain year
